@@ -21,6 +21,16 @@
                 </li>
                 
             </ul>
+            <u1 class="navbar-nav ms-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="{{route ('login')}}">Login</a>
+                </li>
+            </u1> 
+            <u1 class="navbar-nav ms-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="{{route ('register')}}">Register</a>
+                </li>
+            </u1> 
         </div>
     </div>
 </nav>
