@@ -12,7 +12,7 @@
                                 <i class="fas fa-tachometer-alt"></i>Dashboard</a>
                             <ul class="list-unstyled navbar__sub-list js-sub-list">
                                 <li>
-                                    <a href="index.html">Dashboard 1</a>
+                                    <a href="{{ route ('home')}}">Dashboard 1</a>
                                 </li>
                                 <li>
                                     <a href="index2.html">Dashboard 2</a>

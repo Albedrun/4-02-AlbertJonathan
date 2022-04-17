@@ -12,7 +12,7 @@
     <!-- Title Page-->
     <title>Login</title>
 
-    @include('partials/css');
+    @include('partials/css')
 
 </head>
 
